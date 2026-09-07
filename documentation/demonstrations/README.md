@@ -14,7 +14,7 @@ This video demonstrates the physical SMYGN32 prototype, including the vehicle mo
 
 This video demonstrates the complete SMYGN32 digital simulation, including multi-vehicle monitoring, simulated sensor data, sensor fusion, trajectory prediction, Time-to-Collision (TTC), collision-risk assessment, safety classification and collision-avoidance scenarios.
 
-**Video:** `SMYGN32_Digital_Simulation_Demonstration.mp4`
+**Video:** [Watch Digital Simulation Demonstration](./SMYGN32_Digital_Simulation_Demonstration.mp4)
 
 ---
 
