@@ -6,7 +6,7 @@ This folder contains demonstration videos of the SMYGN32 prototype and digital s
 
 This video demonstrates the physical SMYGN32 prototype, including the vehicle movement, obstacle/distance sensing, safety-state indication, buzzer alert and motor response.
 
-**Video:** `SMYGN32_Hardware_Demonstration.mp4`
+**Video:** [▶ Watch Hardware Prototype Demonstration](./SMYGN32_Hardware_Demonstration.mp4)
 
 ---
 
